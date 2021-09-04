@@ -1,4 +1,4 @@
-# Engineering-Economics-Cheat-Sheet
+# Engineering-Economics-Cheatsheet
 You can use these codes and notebook to smash EE course
 
 - Upload the Chapter 1-4 codes to your Google Drive
